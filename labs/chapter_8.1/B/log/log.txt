@@ -1,0 +1,6 @@
+
+26.05.2015 05:42:34 [main] INFO  Main  - application starts
+26.05.2015 05:42:34 [main] ERROR Main  - by.bsu.exception.IdException: Нельзя создать абитуриента. Неподходящий id (<0).
+26.05.2015 05:44:29 [main] INFO  Main  - application starts
+26.05.2015 05:44:29 [main] ERROR Main  - by.bsu.exception.IdException: Нельзя создать абитуриента. Неподходящий id (<0).
+26.05.2015 05:44:29 [main] INFO  Main  - application ends
